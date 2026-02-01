@@ -2,10 +2,10 @@
 
 The State Trait Anxiety Inventory is a 20-item scale designed to measure current state of anxiety levels [[1]](#1). The STAI was given to every participant throughout the study a total of five times:
 1. Pre-STAI: taken before the participant is exposed to treatments.
-2. No wait for hostess and No wait for food (00): The participant has no wait time for the hostess NPC's interaction and no wait time after the menu selection.
-3. No wait for hostess and 3-minute wait for food (03): The participant has no wait time for the hostess NPC's interaction, but a 3-minute wait time after the menu selection.
-4. 3-minutes wait for hostess and No wait for food (30): The participant has a 3-minute wait time for the hostess NPC's interaction and no wait time after the menu selection.
-5. 3-minutes wait for hostess and 3-minute wait for food (33): The participant has a 3-minute wait time for the hostess NPC's interaction and a 3-minute wait time after the menu selection.
+2. No wait for maître d' with No wait for food (00): The participant has no wait time for the maître d' NPC's interaction and no wait time after the menu selection.
+3. No wait for maître d' with 3-minute wait for food (03): The participant has no wait time for the maître d' NPC's interaction, but a 3-minute wait time after the menu selection.
+4. 3-minutes wait for maître d' with No wait for food (30): The participant has a 3-minute wait time for the maître d' NPC's interaction and no wait time after the menu selection.
+5. 3-minutes wait for maître d' with 3-minute wait for food (33): The participant has a 3-minute wait time for the maître d' NPC's interaction and a 3-minute wait time after the menu selection.
 
 The State Trait Anxiety Inventory consists of the following questions:
 
