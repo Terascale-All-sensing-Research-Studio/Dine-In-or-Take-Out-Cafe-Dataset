@@ -36,7 +36,7 @@ The dataset is organized into the following folders:
 *HandGrabLog is only created if a participant interacts with an object in the environment using their hands.
 
 ### Dataset Frame Rate Summary
-The minimum (Min), maximum (Max), and average (Mean) frame rate for the eye gaze, hand grab log, head, left hand, and right hand for our dataset are provided below.  
+The minimum (Min), maximum (Max), average (Mean), and standard deviation (SD) frame rate for the eye gaze, hand grab log, head, left hand, and right hand for our dataset are provided below.  
 
 | Treatment | Type of Data | Min | Max | Mean | SD |
 | ----- | ----- | ----- | ----- | ----- | ----- |
