@@ -27,6 +27,7 @@ We provide the timing of when each audio asset is used in each treatment. We pro
 | 0:00 | Participant spawned into simulation | TrimmedCafeAmbientNoise.mp3 | TrimmedCafeAmbientNoise.mp3 |
 | (variable) When participant reaches NPC maître d' | NPC maître d' says: "I will be with you shortly." | Absent | WithYouShortly.mp3 |
 | (variable) When participant reaches NPC maître d' | NPC maître d' says: "Hello, welcome to Flavor and Vine. Would you like to dine in or take out?" | Welcome.mp3 | Welcome.mp3 | 
+| (variable) When participant does not engage with the NPC maître d' after 1-minute of the Welcome.mp3 audio playing | NPC maître d' says: "Would you like to dine in or take out?" | WelcomeLoop.mp3 | WelcomeLoop.mp3 | 
 | (variable) Upon selecting "Dine In" | NPC maître d' says: "Unfortunately, we only have standing tables available right now. Will that work for you?" | WillStandingTableWork.mp3 | WillStandingTableWork.mp3 | 
 | (variable) Upon selecting "Take Out"	| NPC maître d' says: "Ok, right this way." | OkRightThisWay.mp3 | OkRightThisWay.mp3 | 
 | (variable) Upon selecting "Yes Standing Table" | NPC maître d' says: "Ok, right this way." | OkRightThisWay.mp3 | OkRightThisWay.mp3 | 
