@@ -2,8 +2,7 @@
 
 The 21-tick version of the NASA TLX was administered at the end of the study and scaled from 0 to 100 [[1]](#1). The NASA TLX consists of the following questions:
 
-* Mental Demand: How mentally demanding was the task? 
-(Very Low to Very High)
+* Mental Demand: How mentally demanding was the task? (Very Low to Very High)
 * Physical Demand: How physically demanding was the task? (Very Low to Very High)
 * Temporal Demand: How hurried or rushed was the pace of the task? (Very Low to Very High)
 * Performance: How successful were you in accomplishing what you were asked to do? (Very Low to Very High)
