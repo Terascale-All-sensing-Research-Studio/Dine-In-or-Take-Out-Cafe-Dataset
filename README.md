@@ -36,11 +36,11 @@ The dataset is organized into the following folders:
 *HandGrabLog is only created if a participant interacts with an object in the environment using their hands.
 
 ## Directory Tree
-We provide the directory tree below for the repository and the tree for one example participant (0YJK3) in the VRData folder:
+We provide the directory tree below for the repository and the tree for one example participant (0P9C0) in the VRData folder:
 
 ```
-├── Assets/
-│   ├── 00_03_Audio_Files/
+├── Assets
+│   ├── 00_03_Audio_Files
 │   │   ├── FemaleBackgroundConvo.mp3
 │   │   ├── OkRightThisWay.mp3
 │   │   ├── Sorry.mp3
@@ -49,7 +49,7 @@ We provide the directory tree below for the repository and the tree for one exam
 │   │   ├── WelcomeLoop.mp3
 │   │   ├── WillStandingTableWork.mp3
 │   │   └── WillTakeoutWork.mp3
-│   ├── 30_33_Audio_Files/
+│   ├── 30_33_Audio_Files
 │   │   ├── FemaleBackgroundConvo.mp3
 │   │   ├── OkRightThisWay.mp3
 │   │   ├── Sorry.mp3
@@ -60,34 +60,34 @@ We provide the directory tree below for the repository and the tree for one exam
 │   │   ├── WillTakeoutWork.mp3
 │   │   └── WithYouShortly.mp3
 │   └── README.md
-├── Cybersickness/
-│   ├── numerical_cybersickness.csv
+├── Cybersickness
+│   ├── numerical_vrsq.csv
 │   ├── README.md
-│   └── string_cybersickness.csv
-├── Demographics/
-│   ├── demographics.cs
-│   └── README.mdv
-├── FDS/
+│   └── string_vrsq.csv
+├── Demographics
+│   ├── demographics.csv
+│   └── README.md
+├── FDS
 │   ├── numerical_post_fds.csv
 │   ├── numerical_pre_fds.csv
 │   ├── README.md
 │   ├── string_post_fds.csv
 │   └── string_pre_fds.csv
-├── NASA_TLX/
+├── NASA_TLX
 │   ├── nasatlx.csv
 │   └── README.md
-├── ObjectNames/
+├── ObjectNames
 │   ├── README.md
 │   └── top_down_view.png
-├── R_UCLA/
+├── R_UCLA
 │   ├── numerical_ucla.csv
 │   ├── README.md
 │   └── string_ucla.csv
-├── SPIN/
+├── SPIN
 │   ├── numerical_spin.csv
 │   ├── README.md
 │   └── string_spin.csv
-├── STAI/
+├── STAI
 │   ├── numerical_00_stai.csv
 │   ├── numerical_03_stai.csv
 │   ├── numerical_30_stai.csv
@@ -99,11 +99,11 @@ We provide the directory tree below for the repository and the tree for one exam
 │   ├── string_30_stai.csv
 │   ├── string_33_stai.csv
 │   └── string_pre_stai.csv
-├── SUS/
+├── SUS
 │   ├── numerical_sus.csv
 │   ├── README.md
 │   └── string_sus.csv
-├── TreatmentResponses/
+├── TreatmentResponses
 │   ├── numerical_00_responses.csv
 │   ├── numerical_03_responses.csv
 │   ├── numerical_30_responses.csv
@@ -114,38 +114,35 @@ We provide the directory tree below for the repository and the tree for one exam
 │   ├── string_30_responses.csv
 │   ├── string_33_responses.csv
 │   └── treatment_order.csv
-├── VRData/
-│   ├── 0YJK3/
-│   │   ├── 0YJK3_0_0/
+├── VRData
+│   ├── 0P9C0
+│   │   ├── 0P9C0_0_0
 │   │   │   ├── ButtonLog.csv
 │   │   │   ├── EyeGaze.csv
 │   │   │   ├── Head.csv
 │   │   │   ├── LeftHand.csv
 │   │   │   └── RightHand.csv
-│   │   ├── 0YJK3_0_3/
-│   │   │   ├── ButtonLog.csv
-│   │   │   ├── EyeGaze.csv
-│   │   │   ├── HandGrabLog.csv
-│   │   │   ├── Head.csv
-│   │   │   ├── LeftHand.csv
-│   │   │   └── RightHand.csv
-│   │   ├── 0YJK3_3_0/
+│   │   ├── 0P9C0_0_3
 │   │   │   ├── ButtonLog.csv
 │   │   │   ├── EyeGaze.csv
 │   │   │   ├── Head.csv
 │   │   │   ├── LeftHand.csv
 │   │   │   └── RightHand.csv
-│   │   └── 0YJK3_3_3/
+│   │   ├── 0P9C0_3_0
+│   │   │   ├── ButtonLog.csv
+│   │   │   ├── EyeGaze.csv
+│   │   │   ├── Head.csv
+│   │   │   ├── LeftHand.csv
+│   │   │   └── RightHand.csv
+│   │   └── 0P9C0_3_3
 │   │       ├── ButtonLog.csv
 │   │       ├── EyeGaze.csv
 │   │       ├── Head.csv
 │   │       ├── LeftHand.csv
-│   │       └── RightHand.csv
+│   │       └── RightHand.csv│   
 │   └── README.md
 ├── dictionary.csv
-├── LICENSE
-├── README.md
-└── vrdata_frame_summary.py
+└── README.md
 ```
 
 ### Dataset Frame Rate Summary
