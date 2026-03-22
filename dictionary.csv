@@ -1,570 +1,561 @@
-Directory/FileName,ColumnName,Value
-Cybersickness/numerical_vrsq.csv,Participant ID,Unique 5-character ID assigned to each participant
-Cybersickness/numerical_vrsq.csv,General Discomfort,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Fatigue,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Headache,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Eye Strain,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Difficulty Focusing,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Fullness of the Head,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Blurred Vision,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Dizziness with Eyes Closed,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/numerical_vrsq.csv,Vertigo,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe
-Cybersickness/string_vrsq.csv,Participant ID,Unique 5-character ID assigned to each participant
-Cybersickness/string_vrsq.csv,General Discomfort,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Fatigue,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe
-Cybersickness/string_vrsq.csv,Headache,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Eye Strain,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Difficulty Focusing,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Fullness of the Head,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Blurred Vision,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Dizziness with Eyes Closed,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe 
-Cybersickness/string_vrsq.csv,Vertigo,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe
-Demographics/demographics.csv,Participant ID,Unique 5-character ID assigned to each participant
-Demographics/demographics.csv,Age,Text box
-Demographics/demographics.csv,Self Identified Gender,Female; Male; Other 
-Demographics/demographics.csv,Self Identified Gender,Other text box 
-Demographics/demographics.csv,Ethnicity,Hispanic or Latino; Not Hispanic or Latino
-Demographics/demographics.csv,Race,American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander; White; Two or more Races
-Demographics/demographics.csv,Highest Level of Education Completed,High School or Equivalent ; Associates degree; Bachelor's degree; Master's degree; Doctorate or Professional Degree; Other
-Demographics/demographics.csv,Highest Level of Education Completed,Other text box
-Demographics/demographics.csv,Do you wear glasses?,Yes; No
-Demographics/demographics.csv,Do you wear contacts?,Yes; No
-Demographics/demographics.csv,How often do you play video games?,Always; Most of the time; About half the time; Sometimes; Never
-Demographics/demographics.csv,What type of video games do you play?, Text box
-Demographics/demographics.csv,How often do you use a Virtual Reality (VR) device?,Always; Often; Sometimes; Rarely; Never
-Demographics/demographics.csv,List the devices you use/ have used,Text box
-Demographics/demographics.csv,Do you own a VR device?,Yes; No
-Demographics/demographics.csv,List the devices you own,Text box
-Demographics/demographics.csv,How frequently do you use take-out services?,Always; Often; Sometimes; Rarely; Never
-Demographics/demographics.csv,How frequently do you use dine-in services?,Always; Often; Sometimes; Rarely; Never
-Demographics/demographics.csv,Which of the following do you most often choose?,Dine in; Take out; No preference
-FDS/numerical_pre_fds.csv,Participant ID,Unique 5-character ID assigned to each participant
-FDS/numerical_pre_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't stand doing things that involve a lot of hassle , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't stand having to push myself at tasks, 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand having to persist at unpleasant tasks , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't stand doing tasks that seem too difficult , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand the hassle of having to do things right now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand doing tasks when I'm not in the mood , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't bear it if other people stand in the way of what I want , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand it if other people act against my wishes , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand having to give in to other people's demands , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand having to change when others are at fault , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't tolerate criticism especially when I know I'm right , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't tolerate being taken for granted , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand having to wait for things I would like now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't bear disturbing feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't bear to have certain thoughts , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand situations where I might feel upset , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't stand to lose control of my feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't bear to feel that I am losing my mind , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't get on with my life, or be happy, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't tolerate any lapse in my self-discipline , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand feeling that I'm not on top of my work , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_pre_fds.csv,I can't stand doing a job if I'm unable to do it well , A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't stand being prevented from achieving my full potential , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't bear the frustration of not achieving my goals , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't bear to move on from work I'm not fully satisfied with , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_pre_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,Participant ID,Unique 5-character ID assigned to each participant
-FDS/numerical_post_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't stand doing things that involve a lot of hassle , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't stand having to push myself at tasks, 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand having to persist at unpleasant tasks , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't stand doing tasks that seem too difficult , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand the hassle of having to do things right now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand doing tasks when I'm not in the mood , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't bear it if other people stand in the way of what I want , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand it if other people act against my wishes , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand having to give in to other people's demands , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand having to change when others are at fault , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't tolerate criticism especially when I know I'm right , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't tolerate being taken for granted , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand having to wait for things I would like now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't bear disturbing feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't bear to have certain thoughts , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand situations where I might feel upset , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't stand to lose control of my feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't bear to feel that I am losing my mind , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't get on with my life, or be happy, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't tolerate any lapse in my self-discipline , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand feeling that I'm not on top of my work , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/numerical_post_fds.csv,I can't stand doing a job if I'm unable to do it well , A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't stand being prevented from achieving my full potential , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't bear the frustration of not achieving my goals , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't bear to move on from work I'm not fully satisfied with , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/numerical_post_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,Participant ID,Unique 5-character ID assigned to each participant
-FDS/string_pre_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't stand doing things that involve a lot of hassle , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't stand having to push myself at tasks, 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand having to persist at unpleasant tasks , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't stand doing tasks that seem too difficult , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand the hassle of having to do things right now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand doing tasks when I'm not in the mood , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't bear it if other people stand in the way of what I want , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand it if other people act against my wishes , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand having to give in to other people's demands , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand having to change when others are at fault , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't tolerate criticism especially when I know I'm right , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't tolerate being taken for granted , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand having to wait for things I would like now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't bear disturbing feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't bear to have certain thoughts , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand situations where I might feel upset , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't stand to lose control of my feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't bear to feel that I am losing my mind , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't get on with my life, or be happy, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't tolerate any lapse in my self-discipline , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand feeling that I'm not on top of my work , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_pre_fds.csv,I can't stand doing a job if I'm unable to do it well , A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't stand being prevented from achieving my full potential , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't bear the frustration of not achieving my goals , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't bear to move on from work I'm not fully satisfied with , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_pre_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,Participant ID,Unique 5-character ID assigned to each participant
-FDS/string_post_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't stand doing things that involve a lot of hassle , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't stand having to push myself at tasks, 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand having to persist at unpleasant tasks , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't stand doing tasks that seem too difficult , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand the hassle of having to do things right now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand doing tasks when I'm not in the mood , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't bear it if other people stand in the way of what I want , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand it if other people act against my wishes , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand having to give in to other people's demands , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand having to change when others are at fault , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't tolerate criticism especially when I know I'm right , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't tolerate being taken for granted , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand having to wait for things I would like now , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't bear disturbing feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't bear to have certain thoughts , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand situations where I might feel upset , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't stand to lose control of my feelings , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't bear to feel that I am losing my mind , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't get on with my life, or be happy, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't tolerate any lapse in my self-discipline , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand feeling that I'm not on top of my work , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong 
-FDS/string_post_fds.csv,I can't stand doing a job if I'm unable to do it well , A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't stand being prevented from achieving my full potential , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't bear the frustration of not achieving my goals , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't bear to move on from work I'm not fully satisfied with , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-FDS/string_post_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
-NASA_TLX/nasatlx.csv,Participant ID,Unique 5-character ID assigned to each participant
-NASA_TLX/nasatlx.csv,Mental Demand: How much mental and perceptual activity was required? (Very Low to Very High),0 - 100
-NASA_TLX/nasatlx.csv,Physical Demand: How much physical activity was required? (Very Low to Very High),0 - 100
-NASA_TLX/nasatlx.csv,Temporal Demand: How much time pressure was there? (Very Low to Very High),0 - 100
-NASA_TLX/nasatlx.csv,Performance: How successful was the task accomplished? (Very Low to Very High),0 - 100
-NASA_TLX/nasatlx.csv,Effort: How hard did you work to achieve the level of performance? (Very Low to Very High),0 - 100
-NASA_TLX/nasatlx.csv,Frustration: How stressed and irritated did you feel versus how content? (Very Low to Very High),0 - 100
-R_UCLA/numerical_ucla.csv,Participant ID,Unique 5-character ID assigned to each participant
-R_UCLA/numerical_ucla.csv,I feel in tune with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I lack companionship,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,There is no one I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I do not feel alone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I feel part of a group of friends,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I have a lot in common with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I am no longer close to anyone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,My interests and ideas are not shared by those around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I am an outgoing person,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,There are people I feel close to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I feel left out,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,My social relationships are superficial,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,No one really knows me well,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I feel isolated from others,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I can find companionship when I want it,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,There are people who really understand me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,I am unhappy being so withdrawn,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,People are around me but not with me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,There are people I can talk to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/numerical_ucla.csv,There are people I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,Participant ID,Unique 5-character ID assigned to each participant
-R_UCLA/string_ucla.csv,I feel in tune with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I lack companionship,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,There is no one I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I do not feel alone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I feel part of a group of friends,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I have a lot in common with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I am no longer close to anyone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,My interests and ideas are not shared by those around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I am an outgoing person,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,There are people I feel close to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I feel left out,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,My social relationships are superficial,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,No one really knows me well,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I feel isolated from others,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I can find companionship when I want it,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,There are people who really understand me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,I am unhappy being so withdrawn,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,People are around me but not with me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,There are people I can talk to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-R_UCLA/string_ucla.csv,There are people I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often
-SPIN/numerical_spin.csv,Participant ID,Unique 5-character ID assigned to each participant
-SPIN/numerical_spin.csv,I am afraid of people in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I am bothered by blushing in front of people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Parties and social events scare me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I avoid talking to people I don't know,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Being criticized scares me a lot,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Fear of embarrassment causes me to avoid doing things or speaking to people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Sweating in front of people causes me distress,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I avoid going to parties,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I avoid activities in which I am the centre of attention,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Talking to strangers scares me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I avoid having to give speeches,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I would do anything to avoid being criticized,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Heart palpitations bother me when I am around people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I am afraid of doing things when people might be watching,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Being embarrassed or looking stupid is among my worst fears,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,I avoid speaking to anyone in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/numerical_spin.csv,Trembling or shaking in front of others is distressing to me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Participant ID,Unique 5-character ID assigned to each participant
-SPIN/string_spin.csv,I am afraid of people in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I am bothered by blushing in front of people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Parties and social events scare me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I avoid talking to people I don't know,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Being criticized scares me a lot,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Fear of embarrassment causes me to avoid doing things or speaking to people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Sweating in front of people causes me distress,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I avoid going to parties,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I avoid activities in which I am the centre of attention,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Talking to strangers scares me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I avoid having to give speeches,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I would do anything to avoid being criticized,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Heart palpitations bother me when I am around people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I am afraid of doing things when people might be watching,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Being embarrassed or looking stupid is among my worst fears,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,I avoid speaking to anyone in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-SPIN/string_spin.csv,Trembling or shaking in front of others is distressing to me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely
-STAI/numerical_00_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/numerical_00_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_00_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/numerical_03_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_03_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/numerical_30_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_30_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/numerical_33_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_33_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/numerical_pre_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/numerical_pre_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/string_00_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_00_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/string_03_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_03_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/string_30_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_30_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/string_33_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_33_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,Participant ID,Unique 5-character ID assigned to each participant
-STAI/string_pre_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-STAI/string_pre_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so
-SUS/numerical_sus.csv,Participant ID,Unique 5-character ID assigned to each participant
-SUS/numerical_sus.csv,I like to use this system frequently,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I found this simulation to be unnecessarily complex,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I thought the system was easy to use,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I think that I would need the support of a technical person to be able to use the simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I found the various functions in the simulation were well integrated,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I thought there was too much inconsistency in this simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I imagine that most people would learn to use this system very quickly,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I found the system very awkward to use,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I felt very confident using the system,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/numerical_sus.csv,I needed to learn a lot of things before I could get going with this simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,Participant ID,Unique 5-character ID assigned to each participant
-SUS/string_sus.csv,I like to use this system frequently,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I found this simulation to be unnecessarily complex,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I thought the system was easy to use,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I think that I would need the support of a technical person to be able to use the simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I found the various functions in the simulation were well integrated,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I thought there was too much inconsistency in this simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I imagine that most people would learn to use this system very quickly,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I found the system very awkward to use,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I felt very confident using the system,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-SUS/string_sus.csv,I needed to learn a lot of things before I could get going with this simulation,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree
-TreatmentResponses/numerical_00_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_00_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_00_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_00_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_00_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_00_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_00_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/numerical_03_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_03_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_03_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_03_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_03_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_03_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_03_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/numerical_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/numerical_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/numerical_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/numerical_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/numerical_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/numerical_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/numerical_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/numerical_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/numerical_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/numerical_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_00_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_00_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_00_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_00_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_00_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_00_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_00_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_03_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_03_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_03_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_03_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_03_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_03_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_03_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/string_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/string_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene
-TreatmentResponses/string_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene
-TreatmentResponses/string_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times
-TreatmentResponses/string_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated
-TreatmentResponses/string_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious
-TreatmentResponses/string_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario
-TreatmentResponses/treatment_order.csv,Participant ID,Unique 5-character ID assigned to each participant
-TreatmentResponses/treatment_order.csv,Treatment1,00; 03; 30; or 33 to indicate which treatment the participant completed first.
-TreatmentResponses/treatment_order.csv,Treatment2,00; 03; 30; or 33 to indicate which treatment the participant completed first.
-TreatmentResponses/treatment_order.csv,Treatment3,00; 03; 30; or 33 to indicate which treatment the participant completed first.
-TreatmentResponses/treatment_order.csv,Treatment4,00; 03; 30; or 33 to indicate which treatment the participant completed first.
+Directory/FileName,ColumnName,Value,,
+Cybersickness/numerical_vrsq.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+Cybersickness/numerical_vrsq.csv,General Discomfort,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Fatigue,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Headache,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Eye Strain,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Difficulty Focusing,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Fullness of the Head,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Blurred Vision,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Dizziness with Eyes Closed,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/numerical_vrsq.csv,Vertigo,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+Cybersickness/string_vrsq.csv,General Discomfort,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Fatigue,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Headache,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Eye Strain,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Difficulty Focusing,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Fullness of the Head,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Blurred Vision,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Dizziness with Eyes Closed,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Cybersickness/string_vrsq.csv,Vertigo,1 being None; 2 being Slight; 3 being Moderate; 4 being Severe,,
+Demographics/demographics.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+Demographics/demographics.csv,"Age (Please enter in numeric form, e.g. 23)",Text box,,
+Demographics/demographics.csv,Self Identified Gender,Text box,,
+Demographics/demographics.csv,Ethnicity,Hispanic or Latino; Not Hispanic or Latino,,
+Demographics/demographics.csv,Race,American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander; White; Two or more Races,,
+Demographics/demographics.csv,Highest Level of Education Completed,High School or Equivalent ; Associates degree; Bachelor's degree; Master's degree; Doctorate or Professional Degree; Other,,
+Demographics/demographics.csv,Highest Level of Education Completed (if Other),Text box,,
+Demographics/demographics.csv,Do you wear glasses?,Yes; No,,
+Demographics/demographics.csv,Do you wear contacts?,Yes; No,,
+Demographics/demographics.csv,How often do you play video games?,Always; Most of the time; About half the time; Sometimes; Never,,
+Demographics/demographics.csv,What type of video games do you play?,Text box,,
+Demographics/demographics.csv,How often do you use a Virtual Reality (VR) device?,Always; Often; Sometimes; Rarely; Never,,
+Demographics/demographics.csv,List the devices you use / have used,Text box,,
+Demographics/demographics.csv,Do you own a VR device?,Yes; No,,
+Demographics/demographics.csv,List the devices you own,Text box,,
+Demographics/demographics.csv,How frequently do you use take-out services?,Always; Often; Sometimes; Rarely; Never,,
+Demographics/demographics.csv,How frequently do you use dine-in services?,Always; Often; Sometimes; Rarely; Never,,
+Demographics/demographics.csv,Which of the following do you most often choose?,Dine in; Take out; No preference,,
+FDS/numerical_pre_fds.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+FDS/numerical_pre_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand having to persist at unpleasant tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand doing tasks that seem too difficult,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand the hassle of having to do things right now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand doing tasks when I'm not in the mood,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear it if other people stand in the way of what I want,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand it if other people act against my wishes,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand having to give in to other people's demands,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand having to change when others are at fault,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't tolerate criticism especially when I know I'm right,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't tolerate being taken for granted,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand having to wait for things I would like now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear disturbing feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear to have certain thoughts,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand situations where I might feel upset,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand to lose control of my feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear to feel that I am losing my mind,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,"I can't get on with my life, or be happy, if things don't change",1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't tolerate any lapse in my self-discipline,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand feeling that I'm not on top of my work,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
+FDS/numerical_pre_fds.csv,I can't stand doing a job if I'm unable to do it well,A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't stand being prevented from achieving my full potential,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear the frustration of not achieving my goals,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't bear to move on from work I'm not fully satisfied with,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_pre_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+FDS/numerical_post_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand having to persist at unpleasant tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand doing tasks that seem too difficult,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand the hassle of having to do things right now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand doing tasks when I'm not in the mood,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear it if other people stand in the way of what I want,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand it if other people act against my wishes,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand having to give in to other people's demands,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand having to change when others are at fault,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't tolerate criticism especially when I know I'm right,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't tolerate being taken for granted,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand having to wait for things I would like now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear disturbing feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear to have certain thoughts,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand situations where I might feel upset,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand to lose control of my feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear to feel that I am losing my mind,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,"I can't get on with my life, or be happy, if things don't change",1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't tolerate any lapse in my self-discipline,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand feeling that I'm not on top of my work,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
+FDS/numerical_post_fds.csv,I can't stand doing a job if I'm unable to do it well,A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't stand being prevented from achieving my full potential,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear the frustration of not achieving my goals,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't bear to move on from work I'm not fully satisfied with,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/numerical_post_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+FDS/string_pre_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand having to persist at unpleasant tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand doing tasks that seem too difficult,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand the hassle of having to do things right now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand doing tasks when I'm not in the mood,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear it if other people stand in the way of what I want,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand it if other people act against my wishes,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand having to give in to other people's demands,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand having to change when others are at fault,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't tolerate criticism especially when I know I'm right,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't tolerate being taken for granted,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand having to wait for things I would like now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear disturbing feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear to have certain thoughts,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand situations where I might feel upset,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand to lose control of my feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear to feel that I am losing my mind,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,"I can't get on with my life, or be happy, if things don't change",1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't tolerate any lapse in my self-discipline,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand feeling that I'm not on top of my work,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
+FDS/string_pre_fds.csv,I can't stand doing a job if I'm unable to do it well,A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't stand being prevented from achieving my full potential,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear the frustration of not achieving my goals,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't bear to move on from work I'm not fully satisfied with,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_pre_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+FDS/string_post_fds.csv,I can't stand doing things that involve a lot of hassle,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand having to push myself at tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand having to persist at unpleasant tasks,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand doing tasks that seem too difficult,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand the hassle of having to do things right now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I need the easiest way around problems; I can't stand making a hard time of it,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand doing tasks when I'm not in the mood,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear it if other people stand in the way of what I want,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand it if other people act against my wishes,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand having to give in to other people's demands,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand having to change when others are at fault,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't tolerate criticism especially when I know I'm right,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't tolerate being taken for granted,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand having to wait for things I would like now,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear disturbing feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear to have certain thoughts,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I must be free of disturbing feelings as quickly as possible; I can't bear if they continue,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand situations where I might feel upset,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand to lose control of my feelings,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear to feel that I am losing my mind,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,"I can't get on with my life, or be happy, if things don't change",1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't tolerate any lapse in my self-discipline,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand feeling that I'm not on top of my work,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong, if things don't change , 1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong
+FDS/string_post_fds.csv,I can't stand doing a job if I'm unable to do it well,A1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't stand being prevented from achieving my full potential,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear the frustration of not achieving my goals,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't bear to move on from work I'm not fully satisfied with,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+FDS/string_post_fds.csv,I can't tolerate lowering my standards even when it would be useful to do so,1 being Absent; 2 being Mild; 3 being Moderate; 4 being Strong; 5 being Very Strong,,
+NASA_TLX/nasatlx.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+NASA_TLX/nasatlx.csv,MentalDemand,0 - 100,,
+NASA_TLX/nasatlx.csv,PhysicalDemand,0 - 100,,
+NASA_TLX/nasatlx.csv,TemporalDemand,0 - 100,,
+NASA_TLX/nasatlx.csv,Performance,0 - 100,,
+NASA_TLX/nasatlx.csv,Effort,0 - 100,,
+NASA_TLX/nasatlx.csv,Frustration,0 - 100,,
+R_UCLA/numerical_ucla.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+R_UCLA/numerical_ucla.csv,I feel in tune with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I lack companionship,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,There is no one I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I do not feel alone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I feel part of a group of friends,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I have a lot in common with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I am no longer close to anyone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,My interests and ideas are not shared by those around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I am an outgoing person,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,There are people I feel close to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I feel left out,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,My social relationships are superficial,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,No one really knows me well,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I feel isolated from others,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I can find companionship when I want it,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,There are people who really understand me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,I am unhappy being so withdrawn,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,People are around me but not with me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,There are people I can talk to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/numerical_ucla.csv,There are people I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+R_UCLA/string_ucla.csv,I feel in tune with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I lack companionship,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,There is no one I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I do not feel alone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I feel part of a group of friends,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I have a lot in common with the people around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I am no longer close to anyone,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,My interests and ideas are not shared by those around me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I am an outgoing person,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,There are people I feel close to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I feel left out,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,My social relationships are superficial,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,No one really knows me well,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I feel isolated from others,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I can find companionship when I want it,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,There are people who really understand me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,I am unhappy being so withdrawn,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,People are around me but not with me,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,There are people I can talk to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+R_UCLA/string_ucla.csv,There are people I can turn to,1 being Never; 2 being Rarely; 3 being Sometimes; 4 being Often,,
+SPIN/numerical_spin.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+SPIN/numerical_spin.csv,I am afraid of people in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I am bothered by blushing in front of people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Parties and social events scare me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I avoid talking to people I don't know,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Being criticized scares me a lot,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Fear of embarrassment causes me to avoid doing things or speaking to people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Sweating in front of people causes me distress,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I avoid going to parties,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I avoid activities in which I am the centre of attention,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Talking to strangers scares me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I avoid having to give speeches,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I would do anything to avoid being criticized,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Heart palpitations bother me when I am around people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I am afraid of doing things when people might be watching,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Being embarrassed or looking stupid is among my worst fears,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,I avoid speaking to anyone in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/numerical_spin.csv,Trembling or shaking in front of others is distressing to me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+SPIN/string_spin.csv,I am afraid of people in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I am bothered by blushing in front of people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Parties and social events scare me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I avoid talking to people I don't know,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Being criticized scares me a lot,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Fear of embarrassment causes me to avoid doing things or speaking to people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Sweating in front of people causes me distress,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I avoid going to parties,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I avoid activities in which I am the centre of attention,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Talking to strangers scares me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I avoid having to give speeches,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I would do anything to avoid being criticized,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Heart palpitations bother me when I am around people,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I am afraid of doing things when people might be watching,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Being embarrassed or looking stupid is among my worst fears,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,I avoid speaking to anyone in authority,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+SPIN/string_spin.csv,Trembling or shaking in front of others is distressing to me,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much; 5 being Extremely,,
+STAI/numerical_00_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/numerical_00_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_00_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/numerical_03_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_03_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/numerical_30_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_30_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/numerical_33_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_33_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/numerical_pre_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/numerical_pre_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/string_00_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_00_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/string_03_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_03_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/string_30_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_30_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/string_33_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_33_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+STAI/string_pre_stai.csv,I feel calm,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel secure,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel tense,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel strained,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel at ease,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel upset,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I am presently worrying over possible misfortunes,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel satisfied,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel frightened,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel uncomfortable,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel self confident,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel nervous,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel jittery,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel indecisive,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I am relaxed,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel content,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I am worried,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel confused,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel steady,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+STAI/string_pre_stai.csv,I feel pleasant,1 being Not at all; 2 being A little; 3 being Somewhat; 4 being Very much so,,
+SUS/numerical_sus.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+SUS/numerical_sus.csv,I would like to use this system frequently.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I found this simulation to be unnecessarily complex.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I thought the system was easy to use.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I think that I would need the support of a technical person to be able to use the simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I found the various functions in the simulation were well integrated.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I thought there was too much inconsistency in this simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I imagine that most people would learn to use this system very quickly.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I found the system very awkward to use.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I felt very confident using the system.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/numerical_sus.csv,I needed to learn a lot of things before I could get going with this simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+SUS/string_sus.csv,I would like to use this system frequently.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I found this simulation to be unnecessarily complex.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I thought the system was easy to use.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I think that I would need the support of a technical person to be able to use the simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I found the various functions in the simulation were well integrated.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I thought there was too much inconsistency in this simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I imagine that most people would learn to use this system very quickly.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I found the system very awkward to use.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I felt very confident using the system.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+SUS/string_sus.csv,I needed to learn a lot of things before I could get going with this simulation.,5 being Strongly agree; 4 being Somewhat agree; 3 being Neither agree nor disagree; 2 being Somewhat disagree; 1 being Strongly disagree,,
+TreatmentResponses/numerical_00_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_00_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/numerical_03_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_03_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/numerical_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/numerical_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/numerical_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/numerical_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/numerical_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_00_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_00_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_00_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_00_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_00_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_00_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_00_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_03_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_03_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_03_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_03_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_03_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_03_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_03_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_30_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_30_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_30_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_30_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_30_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_30_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_30_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/string_33_responses.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/string_33_responses.csv,TreatmentPeopleProximity,1 being Very close; 2 being Somewhat close; 3 being Neither; 4 being Somewhat far; and 5 being Very far indicating the participant's perception of proximity of the NPC's in the scene,,
+TreatmentResponses/string_33_responses.csv,TreatmentNoiseLevel,1 being Very quiet; 2 being Somewhat quiet; 3 being Neither; 4 being Somewhat loud; and 5 being Very loud indicating the participant's perception of noise level of the scene,,
+TreatmentResponses/string_33_responses.csv,TreatmentDelay,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level with delay times,,
+TreatmentResponses/string_33_responses.csv,TreatmentIsolation,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling isolated,,
+TreatmentResponses/string_33_responses.csv,TreatmentAnxiety,1 being Very low; 2 being Somewhat low; 3 being Neither; 4 being Somewhat high; and 5 being Very high indicating the participant's frustration level from feeling anxious,,
+TreatmentResponses/string_33_responses.csv,TreatmentRealLifeLikelihood,1 being Very likely; 2 being Somewhat likely; 3 being Neither; 4 being Somewhat unlikely; and 5 being Very unlikely indicating the participant's likeliness to make the same choices in a similar real life scenario,,
+TreatmentResponses/treatment_order.csv,Participant ID,Unique 5-character ID assigned to each participant,,
+TreatmentResponses/treatment_order.csv,Treatment1,00; 03; 30; or 33 to indicate which treatment the participant completed first.,,
+TreatmentResponses/treatment_order.csv,Treatment2,00; 03; 30; or 33 to indicate which treatment the participant completed first.,,
+TreatmentResponses/treatment_order.csv,Treatment3,00; 03; 30; or 33 to indicate which treatment the participant completed first.,,
+TreatmentResponses/treatment_order.csv,Treatment4,00; 03; 30; or 33 to indicate which treatment the participant completed first.,,
