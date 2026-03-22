@@ -1,4 +1,4 @@
-## User Behavior in an Interactive Virtual Reality Cafe (Social Isolation Dataset)
+## Dine In or Take Out Café Dataset: 
 
 ## Contents
 [Description](#description)
