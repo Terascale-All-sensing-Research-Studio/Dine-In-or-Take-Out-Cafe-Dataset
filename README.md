@@ -11,7 +11,7 @@
 The Social Isolation Cafe dataset consists of 35 human participants interacting with a maître d' NPC in a virtual cafe environment, designed using a Unity 6000.0.53f1, to order food from a menu. Each participant is randomly assigned to 4 treatments: No wait for maître d' with No wait for food (00), No wait for maître d' with 3-minute wait for food (03), 3-minutes wait for maître d' with No wait for food (30), and 3-minutes wait for maître d' with 3-minute wait for food (33). Each participant completed all 4 treatments using a Meta Quest Pro headset. For each participant, we collect demographic data, frustration intolerance using the Frustration Discomfort Scale (FDS), subjective feelings of loneliness using the Revised UCLA Loneliness Scale (R-UCLA), severity of social phobia using Social Phobia Inventory (SPIN), and current state of anxiety using State Trait Anxiety Inventory (STAI) prior to immersion. After each treatment, participants provided their perceived level of anxiety using the STAI and custom frustration scales using a 5-point Likert scale. After completing all treatments, participants retook the FDS and completed the NASA Task Load Index (TLX), System Usability Scale (SUS), and Cybersickness in VR Questionnaire (VRSQ). Our dataset also consists of head, left hand, and right hand position and orientation data as well as object names and hit positions of all objects the participant visually and physically engaged with. 
 
 ## Contributors
-Elza Ibragimov, Ava Megyeri, Natasha Kholgade Banerjee, Sean Banerjee, Ashutosh Shivakumar
+Elza Ibragimov, Natasha Kholgade Banerjee, Sean Banerjee, Ashutosh Shivakumar
 
 [Terascale All-sensing Research Studio](https://tars-home.github.io)
 
