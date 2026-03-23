@@ -1,4 +1,4 @@
-## Dine In or Take Out Café Dataset: 
+## Dine In or Take Out Dataset: User Behavior in an Interactive Virtual Reality Café 
 
 ## Contents
 [Description](#description)
