@@ -20,12 +20,10 @@ The dataset is organized into the following folders:
 
 | FolderName |	SubFolders |	DataType |	Contents |
 | ------------- | ------------- | ------------- | ------------- |
-| [Assets](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Assets/) |	Yes |	MP3	| Contains two subfolders, namely [00_03_Audio_Files](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Assets/00_03_Audio_Files) and [30_33_Audio_Files](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Assets/30_33_Audio_Files). The folder [00_03_Audio_Files](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Assets/00_03_Audio_Files) contains all the audio assets in MP3 format for the No wait for maître d' with No wait for food and No wait for maître d' with 3-minute wait for food treatments. [30_33_Audio_Files](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Assets/30_33_Audio_Files) contains all the audio assets in MP3 format for the 3-minute wait for maître d' with No wait for food and 3-minute wait for maître d' with 3-minute wait for food treatments.  The audio files are generated using [ElevenLabs](https://elevenlabs.io/).  |
 | [Cybersickness](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Cybersickness/) |	None |	CSV	| Participant responses to the standard Virtual Reality Cyber Sickness Questionnaire (VRSQ). Each participant is assigned a unique 5-character ID. |
 | [Demographics](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/Demographics/) |	None |	CSV	| Participant demographics consisting of: age, self-identified gender, ethnicity, race, education level, whether they wear glasses, if they wear contacts, how frequently they play video games, what type of video games they play, how frequently they use VR, if they own a VR device, what type of VR devices they use, how frequently they use take-out services, how frequently they use dine-in services,and which of these services the most often choose. Each participant is assigned a unique 5-character ID. |
 | [FDS](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/FDS/)	| None |	CSV |	Participant responses to the standard Frustration Discomfort Scale (FDS). The CSV files are annotated as pre_ and post_ to indicate that they were administered prior to and after the immersion. The CSV files are annotated as numerical_ and string_ to indicate the format of the scale values. Each participant is assigned a unique 5-character ID. |
 | [NASA_TLX](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/NASA_TLX/) |	None |	CSV	| Participant responses to the standard 21-tick NASA Task Load Index (TLX). Each participant is assigned a unique 5-character ID. |
-| [ObjectNames](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/ObjectNames/) |	None |	None | The EyeGaze.csv found in the [VRData](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/VRData/) folder for each participant contains a column titled objectName that stores the name of the object being observed. A top down view of the scene is provided along with a list of labeled ObjectNames. |
 | [R_UCLA](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/R_UCLA/) | None | CSV | Participant responses to the Revised UCLA Loneliness Scale (R-UCLA). Each participant is assigned a unique 5-character ID. |
 | [SPIN](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/SPIN/) | None | CSV | Participant responses to the Social Phobia Inventory (SPIN). Each participant is assigned a unique 5-character ID. |
 | [STAI](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/STAI/) | None | CSV | Participant responses to the State Trait Anxiety Inventory (STAI). Each participant is assigned a unique 5-character ID. |
@@ -39,27 +37,6 @@ The dataset is organized into the following folders:
 We provide the directory tree below for the repository and the tree for one example participant (0P9C0) in the VRData folder:
 
 ```
-├── Assets
-│   ├── 00_03_Audio_Files
-│   │   ├── FemaleBackgroundConvo.mp3
-│   │   ├── OkRightThisWay.mp3
-│   │   ├── Sorry.mp3
-│   │   ├── TrimmedCafeAmbientNoise.mp3
-│   │   ├── Welcome.mp3
-│   │   ├── WelcomeLoop.mp3
-│   │   ├── WillStandingTableWork.mp3
-│   │   └── WillTakeoutWork.mp3
-│   ├── 30_33_Audio_Files
-│   │   ├── FemaleBackgroundConvo.mp3
-│   │   ├── OkRightThisWay.mp3
-│   │   ├── Sorry.mp3
-│   │   ├── TrimmedCafeAmbientNoise.mp3
-│   │   ├── Welcome.mp3
-│   │   ├── WelcomeLoop.mp3
-│   │   ├── WillStandingTableWork.mp3
-│   │   ├── WillTakeoutWork.mp3
-│   │   └── WithYouShortly.mp3
-│   └── README.md
 ├── Cybersickness
 │   ├── numerical_vrsq.csv
 │   ├── README.md
@@ -76,9 +53,6 @@ We provide the directory tree below for the repository and the tree for one exam
 ├── NASA_TLX
 │   ├── nasatlx.csv
 │   └── README.md
-├── ObjectNames
-│   ├── README.md
-│   └── top_down_view.png
 ├── R_UCLA
 │   ├── numerical_ucla.csv
 │   ├── README.md
@@ -148,7 +122,7 @@ We provide the directory tree below for the repository and the tree for one exam
 ```
 
 ### Dataset Frame Rate Summary
-The minimum (Min), maximum (Max), average (Mean), and standard deviation (SD) frame rate for the eye gaze, head, left hand, and right hand for our dataset are provided below. The table below is generated by running the Python script [vrdata_frame_summary.py](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/waitSummary.py) over the [VRData](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/VRData) folder.
+The minimum (Min), maximum (Max), average (Mean), and standard deviation (SD) frame rate for the eye gaze, head, left hand, and right hand for our dataset are provided below. The table below is generated by running the Python script [vrdata_frame_summary.py](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/vrdata_frame_summary.py) over the [VRData](https://github.com/Terascale-All-sensing-Research-Studio/VR-Social-Isolation-Cafe/blob/main/VRData) folder.
 
 | Treatment | Type of Data | Min | Max | Mean | SD |
 | ----- | ----- | ----- | ----- | ----- | ----- |
